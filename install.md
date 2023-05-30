@@ -24,3 +24,4 @@
 6. Install TMUX
     a. sudo apt install tmux
     b. copy .tmux.conf from this repository
+    c. run the command tmux
